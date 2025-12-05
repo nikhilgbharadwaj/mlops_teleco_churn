@@ -95,7 +95,7 @@ GitHub Actions	CI simulation
 
 
 🛠️ Step 1 — Clone the repository
-git clone https://github.com/avinashbhat26/mlops_teleco_churn.git
+git clone https://github.com/nikhilgbharadwaj/mlops_teleco_churn.git
 cd mlops_teleco_churn
 
 🛠️ Step 2 — Create Virtual Environment
